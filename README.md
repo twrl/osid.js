@@ -1,4 +1,4 @@
-This repository contains OSID bindings for Javascript, expressed as a set of AMD modules.
+This repository contains OSID bindings for Javascript, expressed as a set of AMD modules. It's really just a playground at the moment following on from [a recent blog post](http://twrl.blogspot.com/2012/03/what-happened-to-osid.html)
 
 #### Doesn't look like a binding to me...
 
